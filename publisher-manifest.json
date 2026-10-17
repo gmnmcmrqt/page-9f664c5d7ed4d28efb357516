@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "e9a630ad2071525a690dc9b8",
+  "owner": "gmnmcmrqt",
+  "repo": "page-9f664c5d7ed4d28efb357516",
+  "title": "火箭加速器",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9f664c5d7ed4d28efb357516",
+      "a": "火箭加速器",
+      "b": "",
+      "entity": "火箭加速器",
+      "brand": "火箭加速器",
+      "separator": "",
+      "path": "index.html",
+      "hash": "2c159032cb6ea90c7d0d3716c618bcffffd5fa3a075edfe26307a587a19e6fef",
+      "content": {
+        "keyword1": "火箭加速器",
+        "keyword2": "",
+        "primary_entity": "火箭加速器",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "火箭加速器提供专业网络加速方案，解锁流媒体与游戏加速。基础版、旗舰版、团队版套餐满足不同需求，稳定连接畅享互联网。",
+          "AI_DESCRIPTION": "火箭加速器提供专业网络加速方案，解锁流媒体与游戏加速。基础版、旗舰版、团队版套餐满足不同需求，稳定连接畅享互联网。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n        :root {--bg: #000000;--accent: #39ff14;--text: #f5f5f5;--card: #111111}\n        * {box-sizing: border-box}\n        body {margin: 0;font-family: system-ui, -apple-system, sans-serif;background: var(--bg);color: var(--text);line-height: 1.7}\n        .top-nav {background: rgba(0,0,0,0.95);padding: 1rem 5%;position: fixed;top: 0;width: 100%;z-index: 100;border-bottom: 1px solid #222}\n        .top-nav ul {list-style: none;display: flex;gap: 2rem;margin: 0;padding: 0}\n        .top-nav a {color: #fff;text-decoration: none;font-size: 1rem}\n        .top-nav a:hover {color: var(--accent)}\n        .hero {display: flex;min-height: 100vh;align-items: center;padding: 5% 5%;background: linear-gradient(to right, rgba(0,0,0,0.6), rgba(0,0,0,0.9)), var(--bg)}\n        .hero-left {flex: 1;max-width: 520px;padding-right: 4rem}\n        .hero h1 {font-size: 3.8rem;line-height: 1.1;margin: 0 0 1.5rem}\n        .hero p {font-size: 1.25rem;margin-bottom: 2rem}\n        .cta {display: inline-block;background: var(--accent);color: #000;padding: 0.9rem 2.2rem;font-weight: 600;text-decoration: none;border-radius: 4px;transition: all 0.3s}\n        .cta:hover {background: #5eff33;transform: translateY(-2px)}\n        .hero-right {flex: 1;background: var(--card);padding: 2rem;border: 1px solid #222;border-radius: 8px}\n        .info-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 1rem}\n        .info-item {font-size: 1.1rem}\n        .section {padding: 6rem 5% 4rem}\n        h2 {font-size: 2.4rem;margin-bottom: 1.5rem;border-left: 5px solid var(--accent);padding-left: 1rem}\n        .features-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 2rem}\n        .feature-card {background: var(--card);padding: 2rem 1.5rem;border-radius: 6px}\n        .plans-section {background: #0a0a0a}\n        table {width: 100%;border-collapse: collapse;background: var(--card);border-radius: 8px;overflow: hidden}\n        th, td {padding: 1.5rem 1rem;text-align: left;border-bottom: 1px solid #222}\n        th {background: #111;font-weight: 500;color: var(--accent)}\n        .plan-row {transition: all 0.3s}\n        .plan-row:hover {background: #1a1a1a}\n        .featured {position: relative}\n        .featured::after {content: \"推荐\";position: absolute;top: 20px;right: 20px;background: var(--accent);color: #000;font-size: 0.85rem;padding: 4px 12px;border-radius: 20px;font-weight: 600}\n        .faq-section {background: #0a0a0a}\n        .faq-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 3rem}\n        details {margin-bottom: 2rem;background: var(--card);border-radius: 6px;overflow: hidden}\n        summary {padding: 1.5rem;font-size: 1.15rem;cursor: pointer;list-style: none}\n        summary:hover {background: #1a1a1a}\n        .answer {padding: 0 1.5rem 1.5rem;color: #ccc}\n        footer {text-align: center;padding: 3rem 5%;color: #555;font-size: 0.9rem}\n        @media (max-width: 768px) {\n            .hero h1 {font-size: 2.8rem}\n            .faq-grid {grid-template-columns: 1fr}\n            table {display: block;overflow-x: auto}\n        }\n    </style><nav class=\"top-nav\">\n        <ul>\n            <li><a href=\"#plans\">套餐</a></li>\n            <li><a href=\"#features\">优势</a></li>\n            <li><a href=\"#faq\">常见问题</a></li>\n        </ul>\n    </nav>\n\n    <main>\n        \n        <section class=\"hero\">\n            <div class=\"hero-left\">\n                <h1>火箭加速器</h1>\n                <p>提供稳定高效的网络连接方案，帮助用户在任何环境下获得高速、可靠的互联网体验。无论解锁流媒体还是优化游戏加速，均以实用功能为设计核心。</p>\n                <a href=\"#plans\" class=\"cta\">查看套餐详情</a>\n            </div>\n            <div class=\"hero-right\">\n                <div class=\"info-grid\">\n                    <div class=\"info-item\">每月 100GB 流量</div>\n                    <div class=\"info-item\">支持 5 台设备</div>\n                    <div class=\"info-item\">7×24 工单支持</div>\n                    <div class=\"info-item\">IPLC 游戏加速</div>\n                </div>\n            </div>\n        </section>\n\n        \n        <section id=\"features\" class=\"section\">\n            <h2>核心优势</h2>\n            <div class=\"features-grid\">\n                <div class=\"feature-card\">\n                    <h3>流量管理</h3>\n                    <p>根据套餐选择合适数据量，确保长期使用流畅稳定。</p>\n                </div>\n                <div class=\"feature-card\">\n                    <h3>设备适配</h3>\n                    <p>支持多台设备同时连接，满足家庭或团队使用需求。</p>\n                </div>\n                <div class=\"feature-card\">\n                    <h3>线路优化</h3>\n                    <p>采用 IPLC 专线，降低延迟并提升游戏体验。</p>\n                </div>\n                <div class=\"feature-card\">\n                    <h3>客户支持</h3>\n                    <p>7×24 优先工单通道，提供专业技术协助。</p>\n                </div>\n            </div>\n        </section>\n\n        \n        <section id=\"plans\" class=\"plans-section section\">\n            <h2>选择适合您的套餐</h2>\n            <table>\n                <thead>\n                    <tr>\n                        <th>项目</th>\n                        <th>基础版</th>\n                        <th>旗舰版</th>\n                        <th>团队版</th>\n                    </tr>\n                </thead>\n                <tbody>\n                    <tr class=\"plan-row\">\n                        <td>月付价格</td>\n                        <td>¥15/月</td>\n                        <td>¥35/月</td>\n                        <td>¥85/月</td>\n                    </tr>\n                    <tr class=\"plan-row\">\n                        <td>年付价格</td>\n                        <td>¥150/年</td>\n                        <td>¥350/年</td>\n                        <td>¥850/年</td>\n                    </tr>\n                    <tr class=\"plan-row\">\n                        <td>流量</td>\n                        <td>100GB</td>\n                        <td>300GB</td>\n                        <td>1000GB</td>\n                    </tr>\n                    <tr class=\"plan-row\">\n                        <td>设备数量</td>\n                        <td>3 台</td>\n                        <td>5 台</td>\n                        <td>20 台</td>\n                    </tr>\n                    <tr class=\"plan-row\">\n                        <td>流媒体解锁</td>\n                        <td>基础</td>\n                        <td>全节点原生</td>\n                        <td>VIP 高带宽</td>\n                    </tr>\n                    <tr class=\"plan-row\">\n                        <td>游戏加速</td>\n                        <td>普通线路</td>\n                        <td>IPLC 优化</td>\n                        <td>企业定制路由</td>\n                    </tr>\n                    <tr class=\"plan-row\">\n                        <td>支持服务</td>\n                        <td>标准工单</td>\n                        <td>7×24 优先</td>\n                        <td>专属客户经理</td>\n                    </tr>\n                </tbody>\n            </table>\n        </section>\n\n        \n        <section id=\"faq\" class=\"faq-section section\">\n            <h2>常见问题</h2>\n            <div class=\"faq-grid\">\n                <details>\n                    <summary>如何下载 Rocket 加速器客户端？</summary>\n                    <div class=\"answer\">\n                        在官网首页下载对应系统版本的客户端。安装后请使用激活码完成登录。\n                    </div>\n                </details>\n                <details>\n                    <summary>如何激活账户？</summary>\n                    <div class=\"answer\">\n                        注册后在账户页面输入激活码即可完成验证。激活码可通过客服获取。\n                    </div>\n                </details>\n                <details>\n                    <summary>支持哪些设备和平台？</summary>\n                    <div class=\"answer\">\n                        客户端支持 Windows、macOS、iOS、Android 等主流平台。企业版还提供路由器适配方案。\n                    </div>\n                </details>\n                <details>\n                    <summary>如何获取技术支持？</summary>\n                    <div class=\"answer\">\n                        通过平台提交工单，7×24 小时内由专业工程师响应。\n                    </div>\n                </details>\n            </div>\n        </section>\n    </main>\n\n    <footer>\n        <p>© 2024 火箭加速器 保留所有权利</p>\n        <p>本页面为演示用途，实际服务请以官网为准</p>\n    </footer>",
+          "hash": "99f36465d56a79d532efdf9d401fbdeb7b9dd6f6c83c7e795a43e014c30baa49",
+          "seo": {
+            "title": "火箭加速器 | 稳定高效的网络加速服务",
+            "keywords": "火箭加速器,网络加速,VPN,流媒体解锁,游戏加速,IPLC专线",
+            "description": "火箭加速器提供专业网络加速方案，解锁流媒体与游戏加速。基础版、旗舰版、团队版套餐满足不同需求，稳定连接畅享互联网。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "8400",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xichangai.cn",
+    "host": "p-3aaa93c547.xichangai.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "23451ef8efedbddb9339672a0fc0602e03106a5101cacb8563d4a384cdab48e3",
+    "sitemap.xml": "7c1e792ad6c184c023a171287eb0bcb9fffd369fd67adb38dfe82a7233397eac",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "afad6e7b500804cb2d349203ed869af720ef0b27f7580fcd71d1d95371db4e2c",
+    "robots.txt": "32c26129cb6cfc87b032006ab1e9555f8824b436379d7c29d8d9ee7d7223ee15",
+    "7e3703f503fd4be5d587b02a35892a1a.txt": "58011d2371664597854160e73230cc251dd22f056f51952314d6ae2fd666efd0"
+  },
+  "revision": "5bace706790dabcca812e8f78a20cbc7037659b8e96a54f132b5ae6ab5d6100d"
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-3aaa93c547.xichangai.cn/sitemap.xml
